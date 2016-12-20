@@ -1,0 +1,15 @@
+I-Logix-RPY-Archive version 8.10.0 * 8169320
+
+- filesTable = { IRPYRawContainer 
+	- size = 8;
+	- value = "DomoticsCycle2.rpy" ""
+	"DomoticsCycle2_rpy\\ControllerPkg.sbs" "ControllerPkg"
+	"DomoticsCycle2_rpy\\DevicePkg.sbs" "DevicePkg"
+	"DomoticsCycle2_rpy\\SensorPkg.sbs" "SensorPkg"
+	"DomoticsCycle2_rpy\\SpacePkg.sbs" "SpacePkg"
+	"DomoticsCycle2_rpy\\Test.cmp" "Test"
+	"DomoticsCycle2_rpy\\TestPkg.sbs" "TestPkg"
+	"DomoticsCycle2_rpy\\UserPkg.sbs" "UserPkg"
+	
+}
+

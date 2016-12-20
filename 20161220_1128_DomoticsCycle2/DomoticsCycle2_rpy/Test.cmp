@@ -1,0 +1,183 @@
+I-Logix-RPY-Archive version 8.10.0 C++ 8169320
+{ IComponent 
+	- _id = GUID 29e8436d-b4e0-4b4a-9806-1aff0b82d9ce;
+	- _myState = 139264;
+	- _name = "Test";
+	- _modifiedTimeWeak = 12.20.2016::10:28:40;
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID 2e3baf43-d8b8-4a63-a6ca-1a602249b6e3;
+		- _myState = 73728;
+		- _name = "Files";
+		- _modifiedTimeWeak = 11.30.2016::18:19:51;
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 1;
+			- value = 
+			{ IHandle 
+				- _m2Class = "IClass";
+				- _filename = "TestPkg.sbs";
+				- _subsystem = "TestPkg";
+				- _class = "";
+				- _name = "TestBuilderClass";
+				- _id = GUID 4e0e9628-7f29-4ee9-8813-a15b6fefd4a9;
+			}
+		}
+		- Files = { IRPYRawContainer 
+			- size = 0;
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID 2e6988ce-13de-446a-978e-c8147e97dac6;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID 2e6988ce-13de-446a-978e-c8147e97dac6;
+			- _myState = 8192;
+			- _name = "Debug";
+			- _modifiedTimeWeak = 1.2.1990::0:0:0;
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 1bc9a63a-847b-4d88-9a0a-b3d797e77aab;
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "C:\\Users\\maxsn\\Google Drive\\Documenten\\Master Systems & Control\\Year 1\\Advanced Programming\\Rhapsody Projects\\DomoticsCycle1\\DefaultComponent\\DefaultConfig\\DefaultComponent.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID e012f0cd-d4ae-474d-91de-587920bf742b;
+					- _modifiedTimeWeak = 1.2.1990::0:0:0;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "C:\\Users\\maxsn\\Google Drive\\Documenten\\Master Systems & Control\\Year 1\\Advanced Programming\\Rhapsody Projects\\DomoticsCycle1\\DefaultComponent\\DefaultConfig\\MainDefaultComponent";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = Animation;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IClass";
+					- _filename = "TestPkg.sbs";
+					- _subsystem = "TestPkg";
+					- _class = "";
+					- _name = "TestBuilderClass";
+					- _id = GUID 4e0e9628-7f29-4ee9-8813-a15b6fefd4a9;
+				}
+			}
+			- _root = { IFolder 
+				- _id = GUID 484d5f75-a1b2-41fd-a833-874c4e6e54a8;
+				- _myState = 8192;
+				- _name = "Debug";
+				- _modifiedTimeWeak = 1.2.1990::0:0:0;
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+			- m_generateUsecases = 0;
+		}
+	}
+	- HandlesInMe = { IRPYRawContainer 
+		- size = 6;
+		- value = 
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "DevicePkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "DevicePkg";
+			- _id = GUID b116d63e-618c-491c-9d7c-16570e1fa012;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "UserPkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "UserPkg";
+			- _id = GUID 21c4d1a9-273b-4728-992e-209a50384ceb;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "ControllerPkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "ControllerPkg";
+			- _id = GUID d959153c-6590-4c7f-bac1-bb5db93c3d6d;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "TestPkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "TestPkg";
+			- _id = GUID 9dd95f83-eda9-4183-bef9-b391ea59f3ef;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "SensorPkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "SensorPkg";
+			- _id = GUID 0eb9e548-c610-419d-adcb-f39dcd959098;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "SpacePkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "SpacePkg";
+			- _id = GUID 4a166d46-7fff-49dc-b64a-a1dfc008d366;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 12.20.2016::10:28:40;
+	- strongCGTime = 1.2.1990::0:0:0;
+}
+

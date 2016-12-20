@@ -1,0 +1,4 @@
+[Op Calls]
+[Events]
+TestBuilderClass[0]->itsAlarmRadio->GEN(evSetAlarm())`AlarmRadio
+[Breakpoints]

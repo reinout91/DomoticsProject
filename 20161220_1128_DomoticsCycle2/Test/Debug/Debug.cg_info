@@ -1,0 +1,391 @@
+I-Logix-RPY-Archive version 8.10.0 * 8169320
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 68;
+	- value = "Test\\Debug\\Admin.cpp" 12.20.2016::10:28:50
+	"Test\\Debug\\Admin.h" 12.20.2016::10:28:50
+	"Test\\Debug\\AlarmRadio.cpp" 12.20.2016::11:16:33
+	"Test\\Debug\\AlarmRadio.h" 12.20.2016::11:16:33
+	"Test\\Debug\\Bedroom.cpp" 12.20.2016::10:28:53
+	"Test\\Debug\\Bedroom.h" 12.20.2016::10:28:53
+	"Test\\Debug\\Clock.cpp" 12.20.2016::10:28:49
+	"Test\\Debug\\Clock.h" 12.20.2016::10:28:49
+	"Test\\Debug\\CoffeeMachine.cpp" 12.20.2016::10:28:52
+	"Test\\Debug\\CoffeeMachine.h" 12.20.2016::10:28:52
+	"Test\\Debug\\Controller.cpp" 12.20.2016::10:28:51
+	"Test\\Debug\\Controller.h" 12.20.2016::10:28:51
+	"Test\\Debug\\ControllerPkg.cpp" 12.20.2016::10:28:53
+	"Test\\Debug\\ControllerPkg.h" 12.20.2016::10:28:53
+	"Test\\Debug\\Device.cpp" 12.20.2016::10:28:51
+	"Test\\Debug\\Device.h" 12.20.2016::10:28:51
+	"Test\\Debug\\DevicePkg.cpp" 12.20.2016::10:33:54
+	"Test\\Debug\\DevicePkg.h" 12.20.2016::10:33:54
+	"Test\\Debug\\DeviceWithSettings.cpp" 12.20.2016::10:28:51
+	"Test\\Debug\\DeviceWithSettings.h" 12.20.2016::10:28:51
+	"Test\\Debug\\DeviceWithTimedAction.cpp" 12.20.2016::10:28:52
+	"Test\\Debug\\DeviceWithTimedAction.h" 12.20.2016::10:28:52
+	"Test\\Debug\\Heating.cpp" 12.20.2016::10:28:52
+	"Test\\Debug\\Heating.h" 12.20.2016::10:28:52
+	"Test\\Debug\\Kitchen.cpp" 12.20.2016::10:28:52
+	"Test\\Debug\\Kitchen.h" 12.20.2016::10:28:52
+	"Test\\Debug\\Light.cpp" 12.20.2016::10:28:51
+	"Test\\Debug\\Light.h" 12.20.2016::10:28:51
+	"Test\\Debug\\LivingRoom.cpp" 12.20.2016::10:28:52
+	"Test\\Debug\\LivingRoom.h" 12.20.2016::10:28:52
+	"Test\\Debug\\Login.cpp" 12.20.2016::10:28:50
+	"Test\\Debug\\Login.h" 12.20.2016::10:28:50
+	"Test\\Debug\\Member.cpp" 12.20.2016::10:28:50
+	"Test\\Debug\\Member.h" 12.20.2016::10:28:50
+	"Test\\Debug\\MovementSensor.cpp" 12.20.2016::10:28:52
+	"Test\\Debug\\MovementSensor.h" 12.20.2016::10:28:52
+	"Test\\Debug\\Radio.cpp" 12.20.2016::10:28:51
+	"Test\\Debug\\Radio.h" 12.20.2016::10:28:51
+	"Test\\Debug\\Room.cpp" 12.20.2016::10:28:52
+	"Test\\Debug\\Room.h" 12.20.2016::10:28:52
+	"Test\\Debug\\RtvDevice.cpp" 12.20.2016::10:28:51
+	"Test\\Debug\\RtvDevice.h" 12.20.2016::10:28:51
+	"Test\\Debug\\Sensor.cpp" 12.20.2016::10:28:52
+	"Test\\Debug\\Sensor.h" 12.20.2016::10:28:52
+	"Test\\Debug\\SensorPkg.cpp" 12.20.2016::10:28:53
+	"Test\\Debug\\SensorPkg.h" 12.20.2016::10:28:53
+	"Test\\Debug\\SpacePkg.cpp" 12.20.2016::10:28:53
+	"Test\\Debug\\SpacePkg.h" 12.20.2016::10:28:53
+	"Test\\Debug\\Television.cpp" 12.20.2016::10:28:51
+	"Test\\Debug\\Television.h" 12.20.2016::10:28:51
+	"Test\\Debug\\TestBuilderClass.cpp" 12.20.2016::10:28:51
+	"Test\\Debug\\TestBuilderClass.h" 12.20.2016::10:28:51
+	"Test\\Debug\\TestPkg.cpp" 12.20.2016::10:28:53
+	"Test\\Debug\\TestPkg.h" 12.20.2016::10:28:53
+	"Test\\Debug\\Toilet.cpp" 12.20.2016::10:28:52
+	"Test\\Debug\\Toilet.h" 12.20.2016::10:28:52
+	"Test\\Debug\\User.cpp" 12.20.2016::10:28:50
+	"Test\\Debug\\User.h" 12.20.2016::10:28:50
+	"Test\\Debug\\UserInterface.cpp" 12.20.2016::10:28:53
+	"Test\\Debug\\UserInterface.h" 12.20.2016::10:28:53
+	"Test\\Debug\\UserList.cpp" 12.20.2016::10:28:50
+	"Test\\Debug\\UserList.h" 12.20.2016::10:28:50
+	"Test\\Debug\\UserPkg.cpp" 12.20.2016::10:28:53
+	"Test\\Debug\\UserPkg.h" 12.20.2016::10:28:53
+	"Test\\Debug\\iController.cpp" 12.20.2016::10:28:50
+	"Test\\Debug\\iController.h" 12.20.2016::10:28:50
+	"Test\\Debug\\iUserInterface.cpp" 12.20.2016::10:28:50
+	"Test\\Debug\\iUserInterface.h" 12.20.2016::10:28:50
+	
+}
+- size = 35;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "UserPkg.sbs";
+	- _subsystem = "UserPkg";
+	- _class = "";
+	- _name = "UserList";
+	- _id = GUID f4c0818a-3ee8-4f5f-bb2d-32110722fea2;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "TestPkg.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "TestPkg";
+	- _id = GUID 9dd95f83-eda9-4183-bef9-b391ea59f3ef;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "SpacePkg.sbs";
+	- _subsystem = "SpacePkg";
+	- _class = "";
+	- _name = "Bedroom";
+	- _id = GUID 82d88bdd-25e4-46b9-8d87-471ec179ccaf;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "ControllerPkg.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "ControllerPkg";
+	- _id = GUID d959153c-6590-4c7f-bac1-bb5db93c3d6d;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "UserPkg.sbs";
+	- _subsystem = "UserPkg";
+	- _class = "";
+	- _name = "UserInterface";
+	- _id = GUID 57ae3f5b-35bb-40fa-a47b-bc99b60f15e2;
+}
+- genTime = 12.20.2016::10:58:30;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "SpacePkg.sbs";
+	- _subsystem = "SpacePkg";
+	- _class = "";
+	- _name = "Room";
+	- _id = GUID f9dabf28-4736-4591-9d26-e399e7f7508d;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "SensorPkg.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "SensorPkg";
+	- _id = GUID 0eb9e548-c610-419d-adcb-f39dcd959098;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "Test.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "Test\\Debug";
+	- _id = GUID 2e6988ce-13de-446a-978e-c8147e97dac6;
+}
+- genTime = 12.20.2016::11:16:33;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "Television";
+	- _id = GUID 4e09cc40-1594-4b45-aa27-3a48f2bd5c81;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "UserPkg.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "UserPkg";
+	- _id = GUID 21c4d1a9-273b-4728-992e-209a50384ceb;
+}
+- genTime = 12.20.2016::11:18:43;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "ControllerPkg.sbs";
+	- _subsystem = "ControllerPkg";
+	- _class = "";
+	- _name = "Controller";
+	- _id = GUID 1881c163-12dc-4587-b7c2-e002c288025a;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "AlarmRadio";
+	- _id = GUID c7b8f708-0389-47d4-8dcf-83d753ff57cb;
+}
+- genTime = 12.20.2016::11:16:33;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "DeviceWithSettings";
+	- _id = GUID 906a1a94-82af-4204-85d9-17a9eadaf39d;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "DeviceWithTimedAction";
+	- _id = GUID e05aa07b-7c0d-4c38-aff5-bb53207948b2;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "SpacePkg.sbs";
+	- _subsystem = "SpacePkg";
+	- _class = "";
+	- _name = "Kitchen";
+	- _id = GUID f5db5194-122f-4860-90c5-81220c9b0385;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "SpacePkg.sbs";
+	- _subsystem = "SpacePkg";
+	- _class = "";
+	- _name = "Toilet";
+	- _id = GUID c8ef13cc-41c8-4350-83de-59060faee285;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "Heating";
+	- _id = GUID f7fd7cfa-c0d1-424b-87b6-006baa2f9434;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "Clock";
+	- _id = GUID b1d450bd-32ee-47c9-9e6c-8b277c8b9575;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "Light";
+	- _id = GUID 5229b374-8bc5-445c-9dc3-e6b04226a7a2;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "Radio";
+	- _id = GUID 5c9ffc5a-92d1-42f7-866b-9883829b9189;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "SpacePkg.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "SpacePkg";
+	- _id = GUID 4a166d46-7fff-49dc-b64a-a1dfc008d366;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "ControllerPkg.sbs";
+	- _subsystem = "ControllerPkg";
+	- _class = "";
+	- _name = "iController";
+	- _id = GUID 1190b95c-e3c7-41a4-8850-da7f9bc37c8b;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "SpacePkg.sbs";
+	- _subsystem = "SpacePkg";
+	- _class = "";
+	- _name = "LivingRoom";
+	- _id = GUID c1abb73c-9591-4c3e-8b78-ce11e05b7afe;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "UserPkg.sbs";
+	- _subsystem = "UserPkg";
+	- _class = "";
+	- _name = "User";
+	- _id = GUID a11ad629-b110-452a-9555-a01d86a211a6;
+}
+- genTime = 12.20.2016::11:20:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "UserPkg.sbs";
+	- _subsystem = "UserPkg";
+	- _class = "";
+	- _name = "Member";
+	- _id = GUID b92b3033-05fd-4371-b812-6aa3b6788c67;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "TestPkg.sbs";
+	- _subsystem = "TestPkg";
+	- _class = "";
+	- _name = "TestBuilderClass";
+	- _id = GUID 4e0e9628-7f29-4ee9-8813-a15b6fefd4a9;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "CoffeeMachine";
+	- _id = GUID b6c99449-3276-49e7-a9a1-2a1ac7f11cc5;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "UserPkg.sbs";
+	- _subsystem = "UserPkg";
+	- _class = "";
+	- _name = "Admin";
+	- _id = GUID c4ba7462-1614-4c42-86d6-15ddca361869;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "UserPkg.sbs";
+	- _subsystem = "UserPkg";
+	- _class = "";
+	- _name = "iUserInterface";
+	- _id = GUID f405fd4a-7b29-4bab-8e86-bd6b42075fd5;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "UserPkg.sbs";
+	- _subsystem = "UserPkg";
+	- _class = "";
+	- _name = "Login";
+	- _id = GUID 9ebc63d8-ff6a-49d6-871a-7d228e23e14f;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "RtvDevice";
+	- _id = GUID 67737c5b-3a27-40c2-8fbf-fb52972a33df;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DevicePkg";
+	- _id = GUID b116d63e-618c-491c-9d7c-16570e1fa012;
+}
+- genTime = 12.20.2016::11:16:33;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "SensorPkg.sbs";
+	- _subsystem = "SensorPkg";
+	- _class = "";
+	- _name = "MovementSensor";
+	- _id = GUID 37d83a67-5cbc-4465-a4e4-f4729dbca9b3;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "SensorPkg.sbs";
+	- _subsystem = "SensorPkg";
+	- _class = "";
+	- _name = "Sensor";
+	- _id = GUID 189e5f62-3d87-4645-a7de-7cd9564a44ae;
+}
+- genTime = 12.20.2016::10:28:53;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "DevicePkg.sbs";
+	- _subsystem = "DevicePkg";
+	- _class = "";
+	- _name = "Device";
+	- _id = GUID 74838cd7-79c1-491d-94f7-4ad235f8ea89;
+}
+- genTime = 12.20.2016::10:28:53;
+
